@@ -1,0 +1,21 @@
+{
+  "name": "acumen-xsl",
+  "version": "1.0.0",
+  "homepage": "https://github.com/AcumenProject/acumen-xsl",
+  "authors": [
+    "Will Jones <the8bitsquid@gmail.com>"
+  ],
+  "description": "XSL transforms for the Acumen digital archives explorer",
+  "main": "",
+  "keywords": [
+    "Acumen"
+  ],
+  "license": "ECL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
