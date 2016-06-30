@@ -1,0 +1,37 @@
+{
+  "name": "acumen-xsl",
+  "version": "1.0.0",
+  "description": "XSL files for Acumen digital archives explorer",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AcumenProject/acumen-xsl.git"
+  },
+  "keywords": [
+    "Acumen",
+    "MODs",
+    "EAD"
+  ],
+  "author": {
+    "name": "Will Jones",
+    "email": "the8bitsquid@gmail.com",
+    "url": "https://github.com/8bitsquid"
+  },
+  "license": "ECL-2.0",
+  "bugs": {
+    "url": "https://github.com/AcumenProject/acumen-xsl/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1",
+    "xsltproc": "0.0.2"
+  }
+}

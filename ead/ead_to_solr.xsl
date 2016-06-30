@@ -19,9 +19,12 @@
     <xsl:template match="/">
         <add>
             <doc>
-                <field name="title">
-                    <xsl:value-of select=".//ead:titleproper" />
-                </field>
+                <xsl:for-each select=".//ead:titleproper">
+                    <xsl:sort select="@type"  data-type="text"/>
+                    <field name="title">
+                        <xsl:value-of select="text()" />
+                    </field>
+                </xsl:for-each>
 
                 <field name="description">
                     <xsl:value-of select=".//ead:scopecontent/ead:p/text()"/>
