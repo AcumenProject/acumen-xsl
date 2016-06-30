@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+    <titleInfo>
+        <title>University of Alabama cadets in Company B kneeling on the Quad</title>
+    </titleInfo>
+    <name type="corporate" authority="naf">
+        <namePart>University of Alabama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">ctb</roleTerm>
+        </role>
+    </name>
+    <name type="corporate" authority="local">
+        <namePart>The University of Alabama Libraries (Tuscaloosa, Alabama)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">Distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>still image</typeOfResource>
+    <genre authority="aat">photographs</genre>
+    <originInfo>
+        <dateCreated encoding="w3cdtf" keyDate="yes">1888</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">electronic</form>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <extent>1 photograph</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <abstract>University of Alabama cadets in Company B are kneeling on the Quadrangle in 1888. Caption on back: Co B A. C. C. 1888. Captain Stevens, Lieutenants Dedman, Blackburn, Carson, Tunstall. Roll of Co. B: Sergeants 1. Box, 2. Friedman, 3. Earle; Corporals, 1. Averiett, 2. Smith, 3. Fry, 4. Renfro; Privates 1. Allen, 2. Blakey, 3. Carmichael, 4. Christian, 5. Coleman, 6. Denson, 7. Foster, A. B., 8. Foster, E. H., 9. Grayson, 10. Greene, 11. Hagler, J. W., 12. Hagler, P. L., 13. Harris, 14. Higley, 15. Hobdy, 16. Horton, 17. Kemper, 18. Kohn, 19. Leatherwood, 20. Marlowe, 21. Mayfield, 22. Maxwell, 23. McMillan, 24. Murphy, E., 25. Murphy, S., 26. Payne, 27. Patty, 28. Rather, 29. Richards, 30. Richardson, 31. Rosenau, 32. Searcy, 33. Sibert, 34. Sowell, 35. Taylor, V., 36. Thomas, C. E., 37. Thomas, M., 38. Tompkins, 39. Upchurch, 40. Vann, 41. White, 42. Williams.</abstract>
+    <subject authority="tgn">
+        <geographic>United States--Alabama--Tuscaloosa County--Tuscaloosa</geographic>
+    </subject>
+    <subject authority="lcsh">
+        <name type="corporate" authority="naf">
+            <namePart>University of Alabama</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="corporate" authority="local">
+            <namePart>The Quadrangle (University of Alabama)</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Stevens</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Dedman</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Blackburn</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Carson</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Tunstall</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Box</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Friedman</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Earle</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Averiett</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Smith</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Fry</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Renfro</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Allen</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Blakey</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Carmichael</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Christian</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Coleman</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Denson</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Foster, A. B.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Foster, E. H.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Grayson</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Greene</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Hagler, J. W.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Hagler, P. L.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Harris</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Higley</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Hobdy</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Horton</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Kemper</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Kohn</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Leatherwood</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Marlowe</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Mayfield</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Maxwell</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>McMillan</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Murphy, E.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Murphy, S.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Payne</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Patty</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Rather</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Richards</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Richardson</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Rosenau</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Searcy</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Sibert</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Sowell</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Taylor, Thomas, C. E.</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Thomas, M.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Tompkins</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Upchurch</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Vann</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>White</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="local">
+            <namePart>Williams</namePart>
+            <namePart type="termsOfAddress">Mr.</namePart>
+        </name>
+    </subject>
+    <subject authority="lctgm">
+        <topic>Cadets</topic>
+        <geographic>Alabama</geographic>
+        <geographic>Tuscaloosa</geographic>
+    </subject>
+    <subject authority="lctgm">
+        <topic>Students</topic>
+        <geographic>Alabama</geographic>
+        <geographic>Tuscaloosa</geographic>
+    </subject>
+    <relatedItem type="host" displayLabel="Online Repository">
+        <titleInfo>
+            <nonSort>The </nonSort>
+            <title>University of Alabama Libraries Digital Collections</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="host" displayLabel="Digital Collection">
+        <titleInfo>
+            <title>University of Alabama Collection</title>
+        </titleInfo>
+        <identifier type="local">u0001_2007001</identifier>
+        <identifier type="uri">http://purl.lib.ua.edu/54367</identifier>
+    </relatedItem>
+    <identifier type="local">u0001_2007001_0002304</identifier>
+    <identifier type="uri">http://purl.lib.ua.edu/80207</identifier>
+    <location>
+        <physicalLocation type="collection" displayLabel="Repository">University Libraries Division of Special Collections</physicalLocation>
+        <physicalLocation type="collection"
+                          displayLabel="Repository Collection"
+                          xlink:href="http://purl.lib.ua.edu/77668">University of Alabama Collection</physicalLocation>
+        <physicalLocation type="collectionNumber" displayLabel="Collection Number">2007.001</physicalLocation>
+        <physicalLocation type="boxNumber" displayLabel="Box Number">19</physicalLocation>
+        <physicalLocation type="folderNumber" displayLabel="Folder Number">2007.001.002304</physicalLocation>
+        <physicalLocation type="photographNumber" displayLabel="Photograph Number">2007.001.002304</physicalLocation>
+        <url access="object in context" usage="primary">http://purl.lib.ua.edu/80207</url>
+    </location>
+    <accessCondition type="useAndReproduction" displayLabel="Copyright">Collection may be protected under Title 17 of the U.S. Copyright Law.</accessCondition>
+    <accessCondition type="useAndReproduction" displayLabel="Terms">To obtain permission to publish or reproduce, please contact the W. S. Hoole Special Collections Library.</accessCondition>
+    <recordInfo>
+        <recordContentSource authority="oclcorg">ALM</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2013-03-23</recordCreationDate>
+        <recordChangeDate encoding="w3cdtf">2014-12-16</recordChangeDate>
+        <recordOrigin>Generated from source data u0001_2007001.4.m01 (3).txt row(182) with Archivist Utility template AU_to_RawMODS_m01.xml and refined with rawMODS2intMODS.xsl.</recordOrigin>
+        <languageOfCataloging>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            <languageTerm type="text">English</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+</mods>
+        <!--
+        Creation Details:
+        Generated by: Archivist Utility 0.2
+        Data Source: u0001_2007001.4.m01 (3).txt row(182)
+        Encoding Used: UTF-8
+        Created Date: 12/16/2014 1:41 PM
+        Staff Notes:  MU
+        Errors and Warnings:
+        No Errors
+
+        Unused Fields:
+
+        -->

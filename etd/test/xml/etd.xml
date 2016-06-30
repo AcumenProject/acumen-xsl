@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods
+        xmlns:facet="http://libcontent.lib.ua.edu/digital/schemas/facets.xsd"
+        xmlns="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <titleInfo>
+        <title>University teachers' perceptions and evaluations of ethics instruction in public relations curriculum</title>
+    </titleInfo>
+    <name type="personal" authority="local">
+        <namePart>Erzikova, Elina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="local">
+        <namePart>Berger, Bruce</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="code">ths</roleTerm>
+            <roleTerm authority="marcrelator" type="text">Thesis advisor</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="local">
+        <namePart>Chotiner, Barbara</namePart>
+        <role>
+            <roleTerm type="text" authority="local">Committee member</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="local">
+        <namePart>Copeland, Garry</namePart>
+        <role>
+            <roleTerm type="text" authority="local">Committee member</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="local">
+        <namePart>Gower, Karla</namePart>
+        <role>
+            <roleTerm type="text" authority="local">Committee member</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="local">
+        <namePart>Mills, Carol</namePart>
+        <role>
+            <roleTerm type="text" authority="local">Committee member</roleTerm>
+        </role>
+    </name>
+    <name type="corporate" authority="naf">
+        <namePart>University of Alabama. College of Communication and Information Sciences</namePart>
+        <role>
+            <roleTerm type="text" authority="local">Department</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">Electronic Thesis or Dissertation</genre>
+    <genre authority="marcgt">thesis</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">alu</placeTerm>
+            <placeTerm type="text">Tuscaloosa, Ala.</placeTerm>
+        </place>
+        <publisher>University of Alabama Libraries</publisher>
+        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">electronic</form>
+        <internetMediaType>application/pdf</internetMediaType>
+        <digitalOrigin>born digital</digitalOrigin>
+        <extent>147 p.</extent>
+    </physicalDescription>
+    <abstract lang="eng">This study examined the present state of teaching ethics in university public relations departments in the U.S. and abroad. The results indicated that public relations teachers perceived ethics instruction in public relations education to be essential, and they believed in a close tie between general morality and professional ethics. However, as the results of a quantitative survey suggested, foreign participants believed that ethics instruction helps students make right choices on the job less so than did participants who were born and teach in the U.S. A series of qualitative interviews with communication teachers in Western European universities revealed that the foreign teachers did not perceive themselves as direct contributors to the public relations industry. Instead, they saw themselves as individuals who are responsible for general liberal education of the youth, not specialized training. Multiple regression analysis of a number of respondents' demographics showed that the higher the participants' rank, the less favorable attitude they held toward the value of ethics education to students. This result is a subject of a future investigation.  The majority of participants recognized ethics instruction incorporated in courses throughout the PR curriculum as the most valuable format of ethics instruction delivery. The most used pedagogies--teacher lectures, case studies, and group discussion--appeared to be the most effective approaches, whereas the most used resources in teaching ethics--textbooks, trade magazine articles, and newspaper or magazine stories--were perceived as the most effective material in teaching ethics.  Future research should focus on the content of ethics courses; theoretical systems (e.g., Judeo-Christian ethics, Kantian deontology, utilitarianism, and others) examined in the course; whether and to what extent ethics is not only a teaching, but also a research interest of public relations teachers; and, the most important, whether and to what extent ethics instruction affects public relations graduates' future as individuals and professionals. This study makes a pedagogical and theoretical contribution to a thin literature on ethics education. Research based on examination of teachers' perceptions and preferences may help public relations educators see trends in contemporary education, better understand their underpinnings, and possibly enhance their own teaching and educational curricula.</abstract>
+    <subject authority="proqst">
+        <topic>Mass Communications</topic>
+    </subject>
+    <subject>
+        <topic>education</topic>
+    </subject>
+    <subject>
+        <topic>ethics</topic>
+    </subject>
+    <subject>
+        <topic>public relations</topic>
+    </subject>
+    <relatedItem displayLabel="Digital Collection" type="host">
+        <titleInfo>
+            <nonSort>The </nonSort>
+            <title>University of Alabama Electronic Theses and Dissertations</title>
+        </titleInfo>
+        <identifier type="local">u0015_0000001</identifier>
+        <identifier type="uri">http://purl.lib.ua.edu/18289</identifier>
+        <location>
+            <url access="object in context">http://purl.lib.ua.edu/18289</url>
+        </location>
+    </relatedItem>
+    <identifier type="local">u0015_0000001_0000001</identifier>
+    <identifier type="proqst">Erzikova_alatus_0004D_10019</identifier>
+    <identifier type="uri">http://purl.lib.ua.edu/5</identifier>
+    <location>
+        <url access="object in context" usage="primary">http://purl.lib.ua.edu/5</url>
+    </location>
+    <accessCondition type="useAndReproduction" displayLabel="Copyright">All rights reserved by the author unless otherwise indicated.</accessCondition>
+    <extension>
+        <facet:updated_f modified="2014-06-20T16:48:01Z" />
+        <facet:date_f no="day_month">2009-01-01T00:00:00Z</facet:date_f>
+        <etd:degree>
+            <etd:name>Ph.D.</etd:name>
+            <etd:level>doctoral</etd:level>
+        </etd:degree>
+        <etd:discipline>Communication &amp; Information Sciences</etd:discipline>
+    </extension>
+    <recordInfo>
+        <recordContentSource authority="oclcorg">ALM</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2009-10-16</recordCreationDate>
+        <recordChangeDate encoding="w3cdtf">2014-06-20</recordChangeDate>
+        <recordOrigin>Record has been transformed into MODS from a ProQuest/UMI XML record using locally created stylesheet "ProQuest2MODS.xsl".</recordOrigin>
+        <languageOfCataloging>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            <languageTerm type="text">English</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+</mods>
