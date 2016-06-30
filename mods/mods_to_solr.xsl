@@ -258,8 +258,7 @@
                 </xsl:for-each>
 
                 <xsl:for-each select=".//facet:*[not(local-name() = 'updated_f') and not(local-name() = 'date_f')]">
-                    <xsl:variable name="facetName" select="name()">
-                    </xsl:variable>
+                    <xsl:variable name="facetName" select="name()" />
                     <field>
                         <xsl:attribute name="name">
                             <xsl:value-of select="local-name()"/>
